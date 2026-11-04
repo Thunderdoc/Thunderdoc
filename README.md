@@ -2,7 +2,7 @@
 
 <img src="docs/images/red-rift-scene.svg" width="100%" alt="Red Rift animated scene" />
 
-# ANKIT KUMAR
+# THUNDERDOC
 
 ### Thunderdoc · B.Tech CSE (AI/ML) · Madurai, India
 
